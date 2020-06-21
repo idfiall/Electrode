@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>device type</key>
+	<string>mouse</string>
+	<key>hid descriptor</key>
+	<data>
+	BQEJAqEBCQGhAAUJGQEpEBUAJQF1AZUQgQIFAQkwCTEWAYAm/391EJUCgQYJOBWBJX91
+	CJUBgQYFDAo4ApUBgQbAwA==
+	</data>
+	<key>hid usage</key>
+	<integer>2</integer>
+	<key>hid usage page</key>
+	<integer>1</integer>
+	<key>interface number</key>
+	<integer>0</integer>
+	<key>location id</key>
+	<integer>336592896</integer>
+	<key>product id</key>
+	<integer>64568</integer>
+	<key>product name</key>
+	<string>USB Gaming Mouse</string>
+	<key>product version</key>
+	<integer>272</integer>
+	<key>readable inputs</key>
+	<integer>20</integer>
+	<key>transport</key>
+	<integer>1</integer>
+	<key>vendor id</key>
+	<integer>1241</integer>
+	<key>vendor id source</key>
+	<integer>0</integer>
+	<key>vendor name</key>
+	<string></string>
+</dict>
+</plist>
